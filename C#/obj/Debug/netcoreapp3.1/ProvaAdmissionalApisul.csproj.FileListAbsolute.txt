@@ -1,0 +1,16 @@
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.exe
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.deps.json
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.runtimeconfig.json
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.runtimeconfig.dev.json
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.dll
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\ProvaAdmissionalApisul.pdb
+D:\git\ProvaAdmissionalApisul\C#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.csproj.AssemblyReference.cache
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.AssemblyInfoInputs.cache
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.AssemblyInfo.cs
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.csproj.CoreCompileInputs.cache
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.csproj.CopyComplete
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.dll
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.pdb
+D:\git\ProvaAdmissionalApisul\C#\obj\Debug\netcoreapp3.1\ProvaAdmissionalApisul.genruntimeconfig.cache
